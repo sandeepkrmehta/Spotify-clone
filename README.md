@@ -38,18 +38,15 @@ This Music Dashboard UI provides a rich, interactive layout with:
 
 ---
 
-## 📸 **Screenshots**
-(Include screenshots or links to images showing the layout and different sections here)
-
----
 
 ## 🚀 **Getting Started**
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/music-dashboard-ui.git
 2. Live Link to App: https://671bc725decd37871d35ba53--musicui-spotify.netlify.app/
+3. Live Link to App: https://sandeepkrmehta.github.io/Spotify-clone/
 
-3. Open the Project: Navigate to the project folder and open index.html in your preferred web browser.
+4. Open the Project: Navigate to the project folder and open index.html in your preferred web browser.
 
 ## 🎨 **Customization**
 Fonts: Currently using the Montserrat font family; you can replace it in the CSS:
