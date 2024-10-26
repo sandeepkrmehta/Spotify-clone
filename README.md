@@ -8,10 +8,9 @@
 1. Overview
 2. Features
 3. Technologies Used
-4. Screenshots
-5. Getting Started
-6. Customization
-7. Contact
+4. Getting Started
+5. Customization
+6. Contact
 
 ---
 
